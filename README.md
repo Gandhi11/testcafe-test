@@ -27,7 +27,7 @@ In another terminal, run the following commands:
 
 Migrate database
 
-`./vendor/bin/sail migrate`
+`./vendor/bin/sail artisan migrate`
 
 Install yarn dependencies
 
